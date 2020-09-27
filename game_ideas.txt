@@ -1,1 +1,9 @@
 This is where the initial brainstorming ideas from September 26th will be updated.
+
+game ideas:
+
+snake 2d modified
+taxi simulator 2d
+chopsticks online
+among us replica
+detective murder game
