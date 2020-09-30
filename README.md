@@ -6,6 +6,7 @@
     Game is based off a distant year where a deadly zombie apocalypse has taken over the world. Humankind's last known survivors have been working towards the repair of a bunker to process a possible antidote to the infection. However, the INFECTED find ways to get into bunkers and stay alive by infecting others.
 
 **OUTLINE:**
+    
     PLAYERS:
     - 5-10 players
 	- 1 player INFECTED (ZOMB_MAIN)
