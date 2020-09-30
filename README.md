@@ -7,8 +7,8 @@
 
 **OUTLINE:**
     PLAYERS:
-	    - 5-10 players
-	    - 1 player INFECTED (ZOMB_MAIN)
+    - 5-10 players
+	- 1 player INFECTED (ZOMB_MAIN)
 
     OBJECTIVE:
 	- NON INFECTED players have the objective of completing tasks that correspond to repair of the bunker for survival.
